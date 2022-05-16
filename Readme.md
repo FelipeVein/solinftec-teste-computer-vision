@@ -45,3 +45,6 @@ O desafiante será avaliado nas seguintes categorias:
 
 Em uma próxima entrevista, serão realizadas perguntas sobre o que e como o algoritmo foi feito, além de porquê você seguiu esse caminho para realizar o que foi proposto.
 
+## Dúvidas?
+
+Qualquer dúvida sobre o desafio, você pode mandar um email para felipe.martins@solinftec.com!
